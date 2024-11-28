@@ -1,0 +1,16 @@
+com\mycompany\tetris\GestorTiempo.class
+com\mycompany\tetris\PiezaBlanca.class
+com\mycompany\tetris\TableroJPanel.class
+com\mycompany\tetris\TetrisGraphics.class
+com\mycompany\tetris\PiezaVioleta.class
+com\mycompany\tetris\PiezaPerdedor.class
+com\mycompany\tetris\GeneradorPiezas.class
+com\mycompany\tetris\Tetris.class
+com\mycompany\tetris\GestorTeclado.class
+com\mycompany\tetris\Pieza.class
+com\mycompany\tetris\PiezaAzul.class
+com\mycompany\tetris\Tablero.class
+com\mycompany\tetris\PiezaVerde.class
+com\mycompany\tetris\PiezaRoja.class
+com\mycompany\tetris\PiezaAmarilla.class
+com\mycompany\tetris\PiezaRosa.class
